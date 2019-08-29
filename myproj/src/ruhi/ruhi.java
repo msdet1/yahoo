@@ -1,11 +1,9 @@
-
+package ruhi;
 public class ruhi
 {
- private void dg()
- {
-	System.out.println("hsdhjdkfj");
-  
- }
-
+ private void f1()
+   {
+	  System.out.println("hsdhjdkfj");
+   }
 }
 
